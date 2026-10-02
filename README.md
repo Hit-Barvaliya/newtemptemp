@@ -1,1 +1,1 @@
-# I understand purpost of READMD.md file
+# I understand purpose of READMD.md file
